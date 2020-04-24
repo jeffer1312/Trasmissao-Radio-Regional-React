@@ -1,0 +1,9 @@
+.react-player {
+  position: relative;
+  top: 0;
+  left: 0;
+  background-image: url("../../assets/Programming-JavaScript-Equalizer-A-webdeasy.de.gif");
+  background-size: cover;
+  border: 30px solid #ccc;
+  background-position: center;
+}
